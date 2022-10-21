@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  border-style: solid;
+  border-color: rgb(206, 196, 196);
+  border-radius: 8px;
+  position: relative;
+  width: 800px;
+  padding: 20px;
+}
+
+.conditions {
+  display: inline-block;
+  text-align: right;
+}
+
+h2 {
+  font-size: 52px;
+  display: inline-block;
+}
