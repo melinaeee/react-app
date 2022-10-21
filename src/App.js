@@ -14,6 +14,9 @@ export default function App() {
       </ul>
       <Conditions />
       <Temperatures />
+      <p>
+        Coded by <a href="https://github.com/melinaeee/react-app" target="_blank">Melina</a>
+      </p>
     </div>
   );
 }
